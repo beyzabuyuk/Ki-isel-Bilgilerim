@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143596104928",
+    "project_id": "flutterdersleri-8e46b",
+    "storage_bucket": "flutterdersleri-8e46b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143596104928:android:b865459073c81b6845b485",
+        "android_client_info": {
+          "package_name": "com.example.firebase_dersleri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143596104928-lcbb2rf67mt8aqg2dvipvlmjq4ul64oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpFL4BxXf8AMFPH7gSsnvpG4Dez_DbYaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143596104928-lcbb2rf67mt8aqg2dvipvlmjq4ul64oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
