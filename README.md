@@ -1,3 +1,4 @@
+
 # Kisisel_Bilgilerim
 
 A new Flutter project.
@@ -14,3 +15,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![](https://github.com/beyzabuyuk/Kisisel-Bilgilerim/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Screenshot_1613319824.png?raw=true)
+
+![](https://github.com/beyzabuyuk/Kisisel-Bilgilerim/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Screenshot_1613320194.png?raw=true)
+
+![](https://github.com/beyzabuyuk/Kisisel-Bilgilerim/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Screenshot_1613320327.png?raw=true)
+
+![](https://github.com/beyzabuyuk/Kisisel-Bilgilerim/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Screenshot_1613320346.png?raw=true)
+
+![](https://github.com/beyzabuyuk/Kisisel-Bilgilerim/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Screenshot_1613320331.png?raw=true)
